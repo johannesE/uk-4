@@ -88,3 +88,5 @@ Der Vorteil von WebP ist also, dass es die Vorzüge von JPG und PNG in einem Bil
 Wichtig ist es nicht nur die Bilder im richtigen Bildformat bereitzustellen, sondern auch in einer angemessenen Grösse. Bilder sollten immer in der Grösse bereitgestellt werden, in der sie tatsächlich im Web verwendet werden.
 
 Hier noch ein nützliches Werkzeug um mehrere Fotos miteinander zu verarbeiten: [Bulk Resize Photos](https://bulkresizephotos.com/).
+
+Ein anderes Werkzeug um Bilddateien ohne sichtbare Verluste zu verkleinern ist [TinyPNG](https://tinypng.com/).
